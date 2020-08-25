@@ -8,6 +8,7 @@ class PokedexApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
